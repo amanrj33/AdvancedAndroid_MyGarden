@@ -1,0 +1,15 @@
+Index: gradle.properties
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>windows-1252
+===================================================================
+--- gradle.properties	(revision Local Version)
++++ gradle.properties	(revision Shelved Version)
+@@ -18,3 +18,7 @@
+ android.enableJetifier=true
+ android.useAndroidX=true
+ org.gradle.jvmargs=-Xmx1536m
++#Sat Nov 07 20:12:27 IST 2020
++android.enableJetifier=true
++android.useAndroidX=true
++org.gradle.jvmargs=-Xmx1536m
